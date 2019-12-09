@@ -1,0 +1,6 @@
+*.so
+obj/
+*.make
+Makefile
+*.qbs
+bin/
